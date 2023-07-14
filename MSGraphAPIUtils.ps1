@@ -7,7 +7,7 @@
 $msgraph = @{ resource = "https://graph.microsoft.com/";
               appId = "14d82eec-204b-4c2f-b7e8-296a70dab67e" }
 
-$tenant = "ldej.onmicrosoft.com"
+$tenant = "contoso.onmicrosoft.com"
 
 $tokenBaseEndpoint = "https://login.microsoftonline.com/" + $tenant + "/oauth2/v2.0/"
 
