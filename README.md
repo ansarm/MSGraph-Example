@@ -1,5 +1,4 @@
-# MSGraph-Example
-
-This is a re-implentation of the MSAL with some example calls to MSGRAP API.
-It uses the PowerShell APPID so you don't need to re-generate a new APPID
+# OAuth2-PS-Example
+This is a re-implentation of the MSAL in PS with some example calls to MSGraph API.
+It uses the PowerShell AppID so you don't need to re-generate a new AppID
 
